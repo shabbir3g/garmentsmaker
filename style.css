@@ -1,0 +1,48 @@
+/*!
+Theme Name: garmentsmaker
+Theme URI: 	http://shabbir.me/
+Author: Mostafiz Shabbir
+Author URI:  http://facebook.com/shabbir3g
+Description: This is WordPress theme created by mostafiz shabbir. This theme brings your site to life immersive featured images. You can easily customize this theme as you want.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: garmentsmaker
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-garmentsmaker
+*/
+
+
+.blue-dark a {
+	color: #fb8865;
+	padding: 0 7px;
+}
+.widget-title{
+	font-size: 24px;
+	line-height: 30px;
+}
+.widget ul li {
+	list-style: none;
+	margin-bottom: 4px;
+}
+.widget ul li a{
+	color: #83adff;
+	text-decoration: none;
+	display: block;
+}
+.wpcf7 input[type=submit] {
+	padding: 37px 0 46px 14px;
+	display: block;
+	float: right;
+	width: 40%;
+	margin-top: 0 !important;
+	padding-top: 0;
+	text-align: center;
+	margin: auto;
+}
+.wpcf7 input, .wpcf7 textarea {
+	color: #fff;
+}
+#our-clients .slides {
+	height: 75px;
+	overflow: hidden;
+}
